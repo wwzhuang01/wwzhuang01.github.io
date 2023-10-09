@@ -8,5 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Wenwen Zhuang's home on the web!
+Hi! I'm Wenwen Zhuang.
 
+# Education
+- Sep. 2023 - Jun. 2026(Expected)
+- Sep.2019 - Jun. 2023
