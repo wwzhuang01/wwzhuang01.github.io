@@ -16,15 +16,12 @@ Hi! I'm Wenwen Zhuang.
 
 # Publications
 - \[NeurIPS 2023\]A Comprehensive Study on Text-attributed Graphs: Benchmarking and Rethinking \[[paper](https://openreview.net/forum?id=m2mbfoSuJ1&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions))\]\[[code](https://github.com/sktsherlock/TAG-Benchmark)\]
-  
-  Hao Yan, Chaozhuo Li, Ruosong Long, Chao Yan, Jianan Zhao, **Wenwen Zhuang**, Jun Yin, Peiyan Zhang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Lichao Sun, Xing Xie, Senzhang Wang 
+<br> Hao Yan, Chaozhuo Li, Ruosong Long, Chao Yan, Jianan Zhao, **Wenwen Zhuang**, Jun Yin, Peiyan Zhang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Lichao Sun, Xing Xie, Senzhang Wang 
 
 # Experience
 - (Feb. 2023 - Jun. 2023) Reserch Intern, Social Computing Group, Microsoft Research Asia, Beijing, China.
-  
-  Mentor: [Chaozhuo Li](https://www.microsoft.com/en-us/research/people/cli/)
-  
-  Working on representation learning on Text-attributed graphs (TAGs)
+<br> Mentor: [Chaozhuo Li](https://www.microsoft.com/en-us/research/people/cli/)
+<br> Working on representation learning on Text-attributed graphs (TAGs)
 
 # Honors & Awards
 - Outstanding Graduate, Hunan Province, 2023
