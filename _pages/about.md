@@ -11,5 +11,20 @@ redirect_from:
 Hi! I'm Wenwen Zhuang.
 
 # Education
-- Sep. 2023 - Jun. 2026(Expected)
-- Sep.2019 - Jun. 2023
+- **Sep. 2023 - Jun. 2026(Expected)** M.Sc., Institute of Automation, Chinese Academy of Sciences, Beijing, China.
+- **Sep.2019 - Jun. 2023** B.Sc., School of Computer Science, Central South University, Hunan province, China.
+
+# Publications
+- \[NeurIPS 2023\]A Comprehensive Study on Text-attributed Graphs: Benchmarking and Rethinking \[[paper](https://openreview.net/forum?id=m2mbfoSuJ1&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions))\]\[[code](https://github.com/sktsherlock/TAG-Benchmark)\]
+  Hao Yan, Chaozhuo Li, Ruosong Long, Chao Yan, Jianan Zhao, **Wenwen Zhuang**, Jun Yin, Peiyan Zhang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Lichao Sun, Xing Xie, Senzhang Wang 
+
+# Experience
+- (Feb. 2023 - Jun. 2023) Reserch Intern, Social Computing Group, Microsoft Research Asia, Beijing, China.
+  Mentor: [Chaozhuo Li](https://www.microsoft.com/en-us/research/people/cli/)
+  Working on representation learning on Text-attributed graphs (TAGs)
+
+# Honors & Awards
+- Outstanding Graduate, Hunan Province, 2023
+- National Scholarship (top 1%), Ministry of Education, China, 2022
+- National Scholarship (top 1%), Ministry of Education, China, 2021
+- National Scholarship (top 1%), Ministry of Education, China, 2020
