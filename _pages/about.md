@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Wenwen Zhuang.
+Hi! I'm Wenwen Zhuang, a first-year master's student at the Institute of Automation, Chinese Academy of Sciences. Prior to this, I received my bachelor's degree in computer science from Central South University in June 2023. Previously, I was a research intern at Microsoft Research Asia. My current research interests are in natural language processing.
 
 # Education
-- **Sep. 2023 - Jun. 2026(Expected)** M.Sc., Institute of Automation, Chinese Academy of Sciences, Beijing, China.
+- **Sep. 2023 - Jun. 2026 (Expected)** M.Sc., Institute of Automation, Chinese Academy of Sciences, Beijing, China.
 - **Sep.2019 - Jun. 2023** B.Sc., School of Computer Science, Central South University, Hunan province, China.
 
 # Publications
