@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Wenwen Zhuang"
-  avatar           : "profile.png"
+  avatar           : "myprofile.jpg"
   bio              : "Graduate student at Institute of Automation, Chinese Academy of Sciences"
-  location         : "Location"
+  #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=Juo6c3AAAAAJ&view_op=list_works&gmla=AP6z3OZXIVSaaRJCWm7fw4XZgnFTORZ6gEuD8aZzXu59MvUbuLJ7BAE3dYsuajvgN1hH--63-rFztRCzRl-H0FjPodlIVbduwBmWieXxXdY"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/wenwen-zhuang-144290271/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
