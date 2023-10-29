@@ -15,7 +15,7 @@ Hi! I'm Wenwen Zhuang, a first-year master's student at the Institute of Automat
 - **Sep.2019 - Jun. 2023** B.Sc., School of Computer Science, Central South University, Hunan province, China.
 
 # Publications
-- \[Preprint\] ImagenHub: Standardizing the evaluation of conditional image generation models \[[website](https://tiger-ai-lab.github.io/ImagenHub/)\] \[[paper](https://arxiv.org/abs/2310.01596)\] \[[code](https://github.com/TIGER-AI-Lab/ImagenHub)\]
+- \[Preprint\] ImagenHub: Standardizing the evaluation of conditional image generation models \[[website](https://tiger-ai-lab.github.io/ImagenHub/)\] \[[paper](https://arxiv.org/abs/2310.01596)\] \[[code](https://github.com/TIGER-AI-Lab/ImagenHub)\] \[[twitter](https://twitter.com/vinesmsuic/status/1717564355212951701)\]
 <br> Max Ku, Tianle Li, Kai Zhang, Yujie Lu, Xingyu Fu, **Wenwen Zhuang**, Wenhu Chen
 - \[NeurIPS 2023\] A Comprehensive Study on Text-attributed Graphs: Benchmarking and Rethinking \[[paper](https://openreview.net/forum?id=m2mbfoSuJ1&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions))\] \[[code](https://github.com/sktsherlock/TAG-Benchmark)\]
 <br> Hao Yan, Chaozhuo Li, Ruosong Long, Chao Yan, Jianan Zhao, **Wenwen Zhuang**, Jun Yin, Peiyan Zhang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Lichao Sun, Xing Xie, Senzhang Wang 
@@ -26,6 +26,7 @@ Hi! I'm Wenwen Zhuang, a first-year master's student at the Institute of Automat
 <br> Working on representation learning on Text-attributed graphs (TAGs)
 
 # Honors & Awards
+- Stars of Tomorrow Internship Program, Microsoft, 2023
 - Outstanding Graduate, Hunan Province, 2023
 - National Scholarship (top 1%), Ministry of Education, China, 2022
 - National Scholarship (top 1%), Ministry of Education, China, 2021
