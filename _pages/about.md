@@ -23,7 +23,7 @@ Hi! I'm Wenwen Zhuang, a first-year master's student at the Institute of Automat
 # Experience
 - (Feb. 2023 - Jun. 2023) Reserch Intern, Social Computing Group, Microsoft Research Asia, Beijing, China.
 <br> Mentor: [Chaozhuo Li](https://www.microsoft.com/en-us/research/people/cli/)
-<br> Working on representation learning on Text-attributed graphs (TAGs) \[[Slides](https://wwzhuang01.github.io/files/MMTAG.pdf)\]
+<br> Working on representation learning on Text-attributed graphs (TAGs) \[[slides](https://wwzhuang01.github.io/files/MMTAG.pdf)\]
 
 # Honors & Awards
 - Stars of Tomorrow Internship Program, Microsoft, 2023
