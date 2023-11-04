@@ -21,7 +21,7 @@ Hi! I'm Wenwen Zhuang, a first-year master's student at the Institute of Automat
 <br> Hao Yan, Chaozhuo Li, Ruosong Long, Chao Yan, Jianan Zhao, **Wenwen Zhuang**, Jun Yin, Peiyan Zhang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Lichao Sun, Xing Xie, Senzhang Wang 
 
 # Experience
-- (Feb. 2023 - Jun. 2023) Reserch Intern, Social Computing Group, Microsoft Research Asia, Beijing, China.
+- (Feb. 2023 - Jun. 2023) Research Intern, Social Computing Group, Microsoft Research Asia, Beijing, China.
 <br> Mentor: [Chaozhuo Li](https://www.microsoft.com/en-us/research/people/cli/)
 <br> Working on representation learning on Text-attributed graphs (TAGs) \[[slides](https://wwzhuang01.github.io/files/MMTAG.pdf)\]
 
