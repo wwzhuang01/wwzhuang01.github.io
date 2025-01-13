@@ -14,6 +14,7 @@ Hi! I’m Wenwen Zhuang, a second-year master’s student at the Institute of Au
 
 - **Sep.2019 - Jun. 2023** B.Sc., School of Computer Science, Central South University, Hunan province, China.
 <br>*Weighted Average Score: 94.12/100, Rank: 1/223*
+
 # Publications
 - \[AAAI 2025\] Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning  \[[code](https://github.com/wwzhuang01/Math-PUMA)\] \[[paper](https://www.arxiv.org/abs/2408.08640)\] 
 <br> **Wenwen Zhuang**\*, Xin Huang\*, Xiantao Zhang\*, Jin Zeng
